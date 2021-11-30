@@ -8,4 +8,4 @@ Kelas : SK5B
 
 Mata Kuliah : Kecerdasan Buatan
 
-
+Link Video Youtube : https://youtu.be/396XvU5RMlY
